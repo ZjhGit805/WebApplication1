@@ -17,5 +17,9 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public ActionResult Query1()
+        {
+            return View();
+        }
     }
 }
